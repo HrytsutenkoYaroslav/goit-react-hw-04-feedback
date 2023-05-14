@@ -1,0 +1,13 @@
+.btn{
+  background-color: rgb(228, 238, 186);
+  width: 200px;
+  height: 40px;
+  font-weight: 500;
+
+  border: 1px solid black;
+}
+
+.container{
+  display: flex;
+  gap: 10px;
+}

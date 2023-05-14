@@ -1,0 +1,15 @@
+.text{
+  color: black;
+  font-weight: 700;
+
+}
+
+.total{
+  color: rgb(202, 17, 17);
+  font-weight: 700;
+}
+
+.positive{
+  color:  green;
+font-weight: 900;
+}
